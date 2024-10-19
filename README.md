@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Anindita1310
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Backend using spring boot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+
 - 😄 Pronouns: She,her
 - ⚡ Fun fact: I love to sing ❤️
 
